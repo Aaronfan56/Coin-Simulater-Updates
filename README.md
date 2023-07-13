@@ -4,4 +4,4 @@ List Here: https://github.com/Aaronfan56/Coin-Simulater-Updates/tree/main/Versio
 
 # New Version
 
-https://github.com/Aaronfan56/Coin-Simulater-Updates/blob/main/NewVersion.md
+Newes Version: https://github.com/Aaronfan56/Coin-Simulater-Updates/blob/main/NewVersion.md
