@@ -1,6 +1,6 @@
 # Next Update
 
-Make Sure to Favorited to know ween a new update is out!
+Make Sure to Favorited The Game to know ween a new update is out!
 
 Game: 
 
