@@ -1,3 +1,3 @@
 # Gui
 
-Chance The ui in the Shop.
+Chance The Ui in the Shop.
