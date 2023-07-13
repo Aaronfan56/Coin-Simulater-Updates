@@ -1,3 +1,7 @@
-# Over
+# Dug Fixs
 
-The Summer Event Will Be Over Soon!
+Fixs Some Bugs
+
+# Summer Event
+
+Summer Event Will Be Over Soon!
