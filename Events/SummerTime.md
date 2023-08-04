@@ -1,3 +1,0 @@
-# Summer Event
-
-Summer Word
